@@ -395,5 +395,5 @@ a. Quản lý tiến độ hunting theo checklist
 ## 4.2. Hunting tập trung cho Linux
 
 # 5. Viết báo cáo và kết thúc dự án
-# 5.1. Viết báo cáo CA
-# 5.2. 
+## 5.1. Viết báo cáo CA
+## 5.2. 
