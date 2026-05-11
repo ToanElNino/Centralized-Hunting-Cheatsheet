@@ -24,7 +24,7 @@ bao gồm các bước sau:
 
 Hiện tại các dự án CA đang sử dụng các file Excel (.xlsx) để quản lý thông tin. Hiện tại tài liệu này sẽ áp dụng quy trình với các file Excel
 
-VSEC đang phát triển hệ thống DFIR Platform hỗ trợ quản lý note cho hunting tập trung và áp dụng trong thời gian sớm nhất (khoảng tháng 04/2026). Sau khi app dụng DFIR Platform sẽ cập nhật thêm quy trình sử dụng hệ thống này.
+VSEC đang phát triển hệ thống DFIR Platform hỗ trợ quản lý note cho hunting tập trung và áp dụng trong thời gian sớm nhất. Sau khi app dụng DFIR Platform sẽ cập nhật thêm quy trình sử dụng hệ thống này.
 
 ## 1.1. Tạo Centrailzed Hunting Note
 
@@ -40,10 +40,9 @@ Documents
 &gt; DFIR &gt; Documents &gt; Centralized Hunting &amp; Optimization
 &gt; Template
 
-Link: Link
+Link: [Link](https://vsecvn.sharepoint.com/sites/HuntingDFIR/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHuntingDFIR%2FShared%20Documents%2FDFIR%2FDocuments%2FCentralized%20Hunting%20%26%20Optimization%2FTemplate&viewid=7595e775%2De694%2D4192%2Db623%2Dcb73bfbc7c26&ct=1739255796584&or=Teams%2DHL&LOF=1)
 
-Copy vào thư
-mục của dự án tương ứng. Ví dụ:
+Copy vào thư mục của dự án tương ứng. Ví dụ:
 
   <img src="images/image03.png" width="700">
 
