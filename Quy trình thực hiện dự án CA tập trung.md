@@ -20,13 +20,13 @@ bao gồm các bước sau:
 
   <img src="images/image01.png" width="394">
 
-## 1. Khởi tạo tài liệu cho dự án
+# 1. Khởi tạo tài liệu cho dự án
 
 Hiện tại các dự án CA đang sử dụng các file Excel (.xlsx) để quản lý thông tin. Hiện tại tài liệu này sẽ áp dụng quy trình với các file Excel
 
 VSEC đang phát triển hệ thống DFIR Platform hỗ trợ quản lý note cho hunting tập trung và áp dụng trong thời gian sớm nhất (khoảng tháng 04/2026). Sau khi app dụng DFIR Platform sẽ cập nhật thêm quy trình sử dụng hệ thống này.
 
-### 1.1. Tạo Centrailzed Hunting Note
+## 1.1. Tạo Centrailzed Hunting Note
 
 Tạo các File
 exel từ template như hình sau:
@@ -49,7 +49,7 @@ mục của dự án tương ứng. Ví dụ:
 
 Các file này sẽ được sử dụng...
 
-### 1.2.  Tạo dự án trên DFIR Platform (To be determined)
+## 1.2.  Tạo dự án trên DFIR Platform (To be determined)
 ---
 
 # 2. Thu thập log và thông tin thiết bị cho dự án
